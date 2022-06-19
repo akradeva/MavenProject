@@ -1,0 +1,7 @@
+<suite name="SuiteHomework" parallel="methods" thread-count="2">
+    <test name="MathOperationsSuite">
+        <classes>
+            <class name="DataProvidersTests"/>
+        </classes>
+    </test>
+</suite>
